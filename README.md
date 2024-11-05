@@ -1,5 +1,3 @@
-![Github Banner](https://github.com/Joseph1799/Joseph1799/blob/main/Banner.png)
-
 ## Who am I?
 
  ```python
@@ -34,7 +32,7 @@
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -52,12 +50,13 @@
    <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
    <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-D50028?logo=angular&logoColor=white"></a>
    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
 </p>
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
@@ -92,4 +91,4 @@
 
 ------
 [Joseph-Vargas](https://github.com/joseph1799)
-Last Edited on - 06/19/2024
+Last Edited on - 11/05/2024
